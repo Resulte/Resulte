@@ -21,7 +21,7 @@
 <!-- - 🌱 Learning all about: Node.JS Express.JS Graphql MongoDB
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel -->
 ---
-<br/>
+<!-- <br/> -->
 
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
