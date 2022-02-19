@@ -28,8 +28,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 40 hrs 35 mins
-
 TypeScript   26 hrs 17 mins  ████████████████▒░░░░░░░░   64.77 % 
 Go           13 hrs 32 mins  ████████▒░░░░░░░░░░░░░░░░   33.37 % 
 SCSS         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
