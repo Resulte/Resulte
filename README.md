@@ -27,13 +27,16 @@
 #### :bar_chart: [Weekly coding time](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   17 hrs 22 mins  ██████████████████▓░░░░░░   75.25 % 
-Go           3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-SCSS         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript   17 hrs 22 mins  ██████████████████▓░░░░░░   75.25 %
+Go           3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+SCSS         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
