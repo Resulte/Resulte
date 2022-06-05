@@ -29,9 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go               56 mins         ███████████████████░░░░░░   75.34 %
-JavaScript       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Other            7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
