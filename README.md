@@ -29,10 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           8 hrs 51 mins   ████████████▒░░░░░░░░░░░░   49.37 %
-JavaScript   6 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   35.59 %
-TypeScript   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Other        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Go           8 hrs 43 mins   ████████████▒░░░░░░░░░░░░   49.01 %
+JavaScript   6 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   36.46 %
+TypeScript   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 
 <!--END_SECTION:waka-->
