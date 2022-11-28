@@ -38,6 +38,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![Resulte's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Resulte&layout=compact&langs_count=5)
+
+#### My GitHub Trophies
+![Resulte's Trophies](https://github-profile-trophy.vercel.app/?username=Resulte)
+
 <!--
 **Resulte/Resulte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
