@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   7 hrs 36 mins   ███████████████████▓░░░░░   78.14 %
 SCSS         1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
 Python       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
