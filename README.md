@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js            4 mins          █████████▒░░░░░░░░░░░░░░░   37.67 %
+Java Properties   3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Groovy            2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Other             2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+Batchfile         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
