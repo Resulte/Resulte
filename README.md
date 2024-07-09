@@ -29,7 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash     11 mins         █████████████▓░░░░░░░░░░░   54.69 %
+JSON     5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+Other    2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+Docker   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
