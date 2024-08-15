@@ -29,8 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSConfig   5 mins          █████████████████▒░░░░░░░   68.94 %
-Go         2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
