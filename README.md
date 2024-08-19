@@ -2,7 +2,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Resulte) -->
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Resulte&show_icons=true">](https://metrics.lecoq.io/Resulte?template=classic)
-- 🏢 I'm working at ![@PKUHPC](https://github.com/PKUHPC)
+- 🏢 I'm working at [@PKUHPC](https://github.com/PKUHPC)
 - 🚀 I use daily:   
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3f4441?style=plastic&logo=TypeScript)
