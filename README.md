@@ -29,7 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           38 mins         ████████████▒░░░░░░░░░░░░   49.81 %
+TypeScript   25 mins         ████████░░░░░░░░░░░░░░░░░   32.46 %
+JSON         13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
